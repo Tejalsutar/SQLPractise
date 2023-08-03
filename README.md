@@ -1,0 +1,2 @@
+# SQLPractise
+Precising SQL queries 
